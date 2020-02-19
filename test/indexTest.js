@@ -1,4 +1,4 @@
-describe("index.js", () => {
+describe("index.js", () => { 
   describe("independent functions", () => {
     it("has a function wakeDog", () => {
       const a = "Xerox"
